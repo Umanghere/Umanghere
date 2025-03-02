@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio project<br>👯 I’m looking to collaborate with people on projects and open source<br>🤝 I’m looking for help with learning FSD <br>🌱 I’m currently learning ReactJS <br>💬 Ask me about Frontend Web Applications, Cloud computing and optimistic tech <br>⚡ Fun fact :- A cloud weighs around a million tonnes and i am learning its computing. 
+🔭 I’m currently working on My Portfolio project<br>👯 I’m looking to collaborate with people on projects and open source<br>🤝 I’m looking for help with learning FSD <br>🌱 I’m currently learning Backend <br>💬 Ask me about Frontend Web Applications, Cloud computing and optimistic tech <br>⚡ Fun fact :- A cloud weighs around a million tonnes and i am learning its computing. 
 
 
 ## 🌐 Socials:
