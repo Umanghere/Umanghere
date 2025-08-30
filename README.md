@@ -24,4 +24,8 @@
 
 
 ## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/umang-bansal-18314821b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/umangbansal0012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umangbansalhere@gmail.com) 
+
+
+- 📧 **Email**: umangbansalhere@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/UmangBansal](https://linkedin.com/in/https://linkedin.com/in/umang-bansal-18314821b)  
+- 🌐 **Portfolio**: [My Portfolio](https://portfolio-umang.vercel.app/)  
