@@ -14,13 +14,9 @@
   - **Backend**: Node.js, Express.js, MongoDB  
   - **Tools**: Git, GitHub, Postman, VS Code  
 
-<br/>
-
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,tailwind,postman,vercel,vscode,git,)](https://skillicons.dev)
-
-<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=umanghere&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
